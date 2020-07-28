@@ -23,13 +23,13 @@ def literal_aoh
   aoh << PAT_M
   aoh << KATE_G
   aoh << BRUCE_G
-  aoh 
+  aoh
 
-  [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
-     {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"},
-     {:name=>"Pat Monteseian", :occupation=>"Staff"},
-     {:name=>"Kate Gompert", :occupation=>"None"},
-     {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
+  # [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
+  #    {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"},
+  #    {:name=>"Pat Monteseian", :occupation=>"Staff"},
+  #    {:name=>"Kate Gompert", :occupation=>"None"},
+  #    {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
   # array = [
   #   DON_G.sort,
   #   JOELLE_VD.sort,
