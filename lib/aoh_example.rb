@@ -17,8 +17,13 @@ def assembled_aoh
 end
 
 def literal_aoh
-  
-
+  aoh = []
+  aoh << DON_G
+  aoh << JOELLE_VD
+  aoh << PAT_M
+  aoh << KATE_G
+  aoh << BRUCE_G
+  aoh 
 
   [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
      {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"},
